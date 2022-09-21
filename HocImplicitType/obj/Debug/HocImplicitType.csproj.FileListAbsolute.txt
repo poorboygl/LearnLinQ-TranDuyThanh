@@ -1,0 +1,10 @@
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\bin\Debug\HocImplicitType.exe.config
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\bin\Debug\HocImplicitType.exe
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\bin\Debug\HocImplicitType.pdb
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.csproj.AssemblyReference.cache
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.Form1.resources
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.Properties.Resources.resources
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.csproj.GenerateResource.cache
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.csproj.CoreCompileInputs.cache
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.exe
+T:\PV\New folder\BaiTapOnLuyen\HocImplicitType\obj\Debug\HocImplicitType.pdb

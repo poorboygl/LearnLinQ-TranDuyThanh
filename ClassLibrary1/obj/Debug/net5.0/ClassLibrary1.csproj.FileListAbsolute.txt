@@ -1,0 +1,12 @@
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+T:\PV\New folder\BaiTapOnLuyen\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb

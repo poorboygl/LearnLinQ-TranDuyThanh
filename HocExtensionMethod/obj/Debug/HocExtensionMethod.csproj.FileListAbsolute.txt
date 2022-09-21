@@ -1,0 +1,12 @@
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\bin\Debug\HocExtensionMethod.exe.config
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\bin\Debug\HocExtensionMethod.exe
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\bin\Debug\HocExtensionMethod.pdb
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.csproj.AssemblyReference.cache
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.Form1.resources
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.Properties.Resources.resources
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.csproj.GenerateResource.cache
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.csproj.CoreCompileInputs.cache
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.exe
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.pdb
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\bin\Debug\ClassLibrary1.dll
+T:\PV\New folder\BaiTapOnLuyen\HocExtensionMethod\obj\Debug\HocExtensionMethod.csproj.CopyComplete

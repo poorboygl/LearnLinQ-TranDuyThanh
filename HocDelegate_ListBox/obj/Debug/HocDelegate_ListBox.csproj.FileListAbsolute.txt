@@ -1,0 +1,11 @@
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\bin\Debug\HocDelegate_ListBox.exe.config
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\bin\Debug\HocDelegate_ListBox.exe
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\bin\Debug\HocDelegate_ListBox.pdb
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.csproj.AssemblyReference.cache
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.Form1.resources
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.Properties.Resources.resources
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.csproj.GenerateResource.cache
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.csproj.CoreCompileInputs.cache
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.exe
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.pdb
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate_ListBox\obj\Debug\HocDelegate_ListBox.Form2.resources

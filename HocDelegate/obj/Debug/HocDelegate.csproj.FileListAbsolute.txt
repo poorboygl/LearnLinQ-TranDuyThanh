@@ -1,0 +1,10 @@
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\bin\Debug\HocDelegate.exe.config
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\bin\Debug\HocDelegate.exe
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\bin\Debug\HocDelegate.pdb
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.csproj.AssemblyReference.cache
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.Form1.resources
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.Properties.Resources.resources
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.csproj.GenerateResource.cache
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.csproj.CoreCompileInputs.cache
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.exe
+T:\PV\New folder\BaiTapOnLuyen\HocDelegate\obj\Debug\HocDelegate.pdb

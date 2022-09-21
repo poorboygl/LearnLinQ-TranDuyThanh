@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\bin\Debug\KhoaHocGeneric.exe.config
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\bin\Debug\KhoaHocGeneric.exe
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\bin\Debug\KhoaHocGeneric.pdb
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.Form1.resources
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.Properties.Resources.resources
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.exe
+C:\Users\Admin\Desktop\PV\New folder\BaiTapOnLuyen\KhoaHocGeneric\obj\Debug\KhoaHocGeneric.pdb
